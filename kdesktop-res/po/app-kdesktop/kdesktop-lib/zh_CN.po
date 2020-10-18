@@ -1,0 +1,229 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdesktop-lib\n"
+"Report-Msgid-Bugs-To: http://www.libsdl.cn/\n"
+"POT-Creation-Date: 2020-10-17 16:14+0800\n"
+"PO-Revision-Date: 2020-10-17 16:17+0800\n"
+"Last-Translator: \n"
+"Language-Team: Chinese/Simplified <i18n-translation@lists.linux.net.cn>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3.1\n"
+
+#: apps-res/po/app-kdesktop/cfg-cpp/kdesktop-lib/_bonus.cpp:1
+msgid "kdesktop"
+msgstr "kDesktop"
+
+#: apps-res/po/app-kdesktop/cfg-cpp/kdesktop-lib/gui.cpp:1
+msgid "Cancel"
+msgstr "取消"
+
+#: apps-res/po/app-kdesktop/cfg-cpp/kdesktop-lib/gui.cpp:3
+msgid "Enter desktop"
+msgstr "进入桌面"
+
+#: apps-res/po/app-kdesktop/cfg-cpp/kdesktop-lib/gui.cpp:5
+msgid "Gateway"
+msgstr "网关"
+
+#: apps-res/po/app-kdesktop/cfg-cpp/kdesktop-lib/gui.cpp:7
+msgid "IP addr"
+msgstr "IP地址"
+
+#: apps-res/po/app-kdesktop/cfg-cpp/kdesktop-lib/gui.cpp:9
+msgid "Scan"
+msgstr "扫描设备"
+
+#: apps-res/po/app-kdesktop/cfg-cpp/kdesktop-lib/gui.cpp:11
+msgid "Subnet mask"
+msgstr "子网掩码"
+
+#: apps-res/po/app-kdesktop/cfg-cpp/kdesktop-lib/gui.cpp:13
+msgid "Update"
+msgstr "修改"
+
+#: apps-res/po/app-kdesktop/cfg-cpp/kdesktop-lib/gui.cpp:15
+msgid "misc/back.png"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:210
+msgid "Start decoder"
+msgstr "启动解码器"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:520
+msgid "Fail"
+msgstr "失败"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:520
+msgid "Success"
+msgstr "成功"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:521
+msgid "Start decoder $result"
+msgstr "启动解码器$result"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:523
+msgid "Decoder is ready"
+msgstr "解码器已就绪"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:795
+msgid "Visible area display $percent%"
+msgstr "显示$percent%桌面"
+
+#: apps-src/apps/kdesktop/gui/dialogs/desktop.cpp:1164
+msgid "gui/scene"
+msgstr ""
+
+#: apps-src/apps/kdesktop/gui/dialogs/ethernetip.cpp:53
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:63
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:464
+msgid "Update IP"
+msgstr "修改IP"
+
+#: apps-src/apps/kdesktop/gui/dialogs/home.cpp:72
+msgid "When switching mode, can select '$item'"
+msgstr "切换模式时，可以选“$item”"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:64
+msgid "scan help $updateip"
+msgstr ""
+"一、如果设备当前没有有效IP地址，可用“修改IP”改出个临时IP地址，然后运行远程桌"
+"面Client，成功连接后尽快用“设置/Settings”修改IP地址。\n"
+"二、“修改IP”只能改以太网，不能改Wifi。\n"
+"三、什么是临时IP地址？1）该地址只是给后续的远程桌面Client用。2）该地址和“设"
+"置/Settings”中的IP地址界面显示的会不一样。3）成功改出临时IP地址后，设备上的IP"
+"地址会“混乱”，必须尽快用“设置/Settings”改出永久IP地址。"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:113
+msgid "Scan again"
+msgstr "重新扫描"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:120
+msgid "Query IP"
+msgstr "查询IP"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:126
+msgid "Connecting"
+msgstr "连接中"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:129
+msgid "Send request"
+msgstr "发送请求"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:132
+msgid "Waiting response"
+msgstr "等待应答"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:143
+msgid "Connect fail"
+msgstr "连接失败"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:146
+msgid "Get serviceDB fail"
+msgstr "获取Service失败"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:149
+msgid "ServiceDB error"
+msgstr "Service数据错误"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:152
+msgid "Unknown error"
+msgstr "未知错误"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:156
+msgid "Unknown device, don't query"
+msgstr "未知设备，不查询"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:447
+msgid "Invalid SN"
+msgstr "无效SN"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:473
+msgid "Remote desktop"
+msgstr "远程桌面"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:607
+msgid "Scan will stop after $elapse"
+msgstr "$elapse后结束扫描"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:615
+msgid "Updating IP, from $src to $dst"
+msgstr "正在修改IP，从$src到$dst"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:648
+msgid "Can not get IP within limited time"
+msgstr "不能在规定时间内查出IP"
+
+#: apps-src/apps/kdesktop/gui/dialogs/scan.cpp:650
+msgid "Can not update IP within limited time"
+msgstr "不能在规定时间内修改IP"
+
+#: apps-src/apps/kdesktop/main.cpp:50
+msgid "Scale to screen"
+msgstr "拉伸到满区域"
+
+#: apps-src/apps/kdesktop/main.cpp:51
+msgid "Keep aspect ratio"
+msgstr "保持宽高比"
+
+#: apps-src/apps/kdesktop/main.cpp:52
+msgid "Partial"
+msgstr "部分显示"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:287
+msgid "Connect to $ip"
+msgstr "连接$ip"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:295
+msgid "Cannot create local socket"
+msgstr "不能断建本地socket"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:303
+msgid "Connect fail. errcode: $errcode"
+msgstr "连接失败。错误码：$errcode"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:367
+msgid "Start SSL handshake"
+msgstr "开始SSL握手"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:406
+msgid "SSL handshake success"
+msgstr "SSL握手成功"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:423
+msgid "Send MCS Connect Initial PDU"
+msgstr "发送MSC Connect Initial PDU"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:536
+msgid "Finish connection sequence"
+msgstr "完成RDP连接流程"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:615
+msgid "Close connect because error. errcode: $errcode"
+msgstr "遇到错误而关闭网络连接。错误码：$errcode"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:617
+msgid "Close connect"
+msgstr "关闭网络连接"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:834
+msgid "Launcher's version($cur) must >= $min"
+msgstr "不支持的RDP Server($cur)。Server必须是Launcher，且版本至少$min"
+
+#: apps-src/apps/kdesktop/rdp_client.cc:929
+msgid "Hasn't received RTT Measure Request over $time, think as disconnect"
+msgstr "已持续$time没收到RTT Measure Request，认为连接已断开"
+
+#~ msgid "The percentage of the desktop that is displayed when mode is partial"
+#~ msgstr "模式是显示部分远程桌面时，显示部分占桌面的百分比"
+
+#~ msgid "Enlarge"
+#~ msgstr "放大"
+
+#~ msgid "Stop scan"
+#~ msgstr "停止扫描"
